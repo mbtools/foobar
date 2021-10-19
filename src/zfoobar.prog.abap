@@ -5,4 +5,6 @@
 *&---------------------------------------------------------------------*
 REPORT zfoobar.
 
-WRITE 'Hello, World!'.
+WRITE 'Welcome on Mars!'.
+
+RETURN. " to Earth
